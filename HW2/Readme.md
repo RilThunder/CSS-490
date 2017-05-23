@@ -1,0 +1,7 @@
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%201.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20part%202.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%203.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%204.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%205.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%206.png)
+![ScreenShot](https://github.com/RilThunder/CSS-490/blob/master/HW2/HW2%20Part%207.png)
